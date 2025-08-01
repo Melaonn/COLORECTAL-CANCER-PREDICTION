@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/melson/Desktop/MLOPS_Colorectal/mlruns/0/23b8f08b0cf94056944c804d11813f88/artifacts
+end_time: 1754025406903
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 23b8f08b0cf94056944c804d11813f88
+run_name: nimble-colt-735
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1754025392832
+status: 3
+tags: []
+user_id: melson

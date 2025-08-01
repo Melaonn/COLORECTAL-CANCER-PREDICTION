@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/melson/Desktop/MLOPS_Colorectal/mlruns/0/eb214142fb874c8e90a51924e2879b4a/artifacts
+end_time: 1754025833075
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: eb214142fb874c8e90a51924e2879b4a
+run_name: wise-trout-259
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1754025818144
+status: 3
+tags: []
+user_id: melson
